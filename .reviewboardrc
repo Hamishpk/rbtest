@@ -5,3 +5,4 @@ LAND_PUSH = True
 LAND_DELETE_BRANCH = False
 LAND_DEST_BRANCH = "origin/main"
 TRACKING_BRANCH = "origin/main"
+LAND_DELETE_BRANCH = False
