@@ -1,3 +1,7 @@
 REVIEWBOARD_URL = 'https://rbcommons.com/s/devex/'
 REPOSITORY = 'test'
 LAND_SQUASH = True
+LAND_PUSH = True
+LAND_DELETE_BRANCH = False
+LAND_DEST_BRANCH = "origin/main"
+TRACKING_BRANCH = "origin/main"
